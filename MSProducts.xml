@@ -40,5 +40,5 @@
 	<Model SystemSKU="Surface_Pro_X_H_1876" ProductName="SurfaceProX" DisplayName="Sufrace Pro X with SQ2" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Studio" ProductName="SurfaceStudio" DisplayName="Surface Studio" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Studio_2_1707_Commercial" ProductName="Surface Studio 2" DisplayName="Surface Studio 2" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
-	<Model SystemSKU="Surface_Pro_9_for_Business_2038" ProductName="Surface Pro 9" DisplayName="Surface Pro 9" SupportedBuilds="1809,1903,1909,2004,2009,21H2,22H2"></Model>
+	<Model SystemSKU="Surface_Pro_9_for_Business_2038" ProductName="Surface Pro 9" DisplayName="Surface Pro 9 Commercial" SupportedBuilds="1809,1903,1909,2004,2009,21H2,22H2"></Model>
 </Drivers>
