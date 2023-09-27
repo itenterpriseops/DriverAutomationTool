@@ -907,12 +907,12 @@
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Pro",
         "Product":  "Surface_Pro_1796",
-        "Name":  "Microsoft Surface Pro (5th Gen) Win10 19041",
+        "Name":  "Microsoft Surface Pro (5th Gen) Win10 19044",
         "PackageID":  "55484",
-        "FileName":  "SurfacePro_Win10_19041_22.074.40280.0.msi",
-        "Url":  "https://download.microsoft.com/download/4/C/7/4C7DA85D-03DE-4B89-B8E0-386437331C46/SurfacePro_Win10_19041_22.074.40280.0.msi",
+        "FileName":  "SurfacePro_Win10_19044_23.080.5673.0.msi",
+        "Url":  "https://download.microsoft.com/download/4/C/7/4C7DA85D-03DE-4B89-B8E0-386437331C46/SurfacePro_Win10_19044_23.080.5673.0.msi",
         "OSVersion":  "Windows 10 x64",
-        "HashMD5":  "C7231FA474EE8287B4A557313F0C280"
+        "HashMD5":  "FEFC9858383A984FD5E02F1B663498ED"
     },
     {
         "CatalogVersion":  "23.01.08",
