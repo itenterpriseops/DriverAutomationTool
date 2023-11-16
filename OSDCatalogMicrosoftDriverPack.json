@@ -909,10 +909,10 @@
         "Product":  "Surface_Pro_1796",
         "Name":  "Microsoft Surface Pro (5th Gen) Win10 19044",
         "PackageID":  "55484",
-        "FileName":  "SurfacePro_Win10_19044_23.092.28606.0.msi",
-        "Url":  "https://download.microsoft.com/download/4/C/7/4C7DA85D-03DE-4B89-B8E0-386437331C46/SurfacePro_Win10_19044_23.092.28606.0.msi",
+        "FileName":  "SurfacePro_Win10_19044_23.102.15869.0.msi",
+        "Url":  "https://download.microsoft.com/download/4/C/7/4C7DA85D-03DE-4B89-B8E0-386437331C46/SurfacePro_Win10_19044_23.102.15869.0.msi",
         "OSVersion":  "Windows 10 x64",
-        "HashMD5":  "EE29DE89335983624AC00F8B08FAE198"
+        "HashMD5":  "76F5283DEFC0ED161772637611A7D498"
     },
     {
         "CatalogVersion":  "23.01.08",
@@ -924,10 +924,10 @@
         "Product":  "Surface_Pro_1796",
         "Name":  "Microsoft Surface Pro (5th Gen) Win11 22000",
         "PackageID":  "55484",
-        "FileName":  "SurfacePro_Win11_22000_23.092.28609.0.msi",
-        "Url":  "https://download.microsoft.com/download/4/C/7/4C7DA85D-03DE-4B89-B8E0-386437331C46/SurfacePro_Win11_22000_23.092.28609.0.msi",
+        "FileName":  "SurfacePro_Win11_22000_23.102.15867.0.msi",
+        "Url":  "https://download.microsoft.com/download/4/C/7/4C7DA85D-03DE-4B89-B8E0-386437331C46/SurfacePro_Win11_22000_23.102.15867.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "2904C1B5B3EB50F2B024F55397341967"
+        "HashMD5":  "C3CCB0A9973362F35DC98B176B638DDA"
     },
     {
         "CatalogVersion":  "23.01.08",
