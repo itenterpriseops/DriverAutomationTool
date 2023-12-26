@@ -303,16 +303,16 @@
         "CatalogVersion":  "23.01.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "23.09.28",
+        "ReleaseDate":  "23.11.17",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Go 3",
         "Product":  "Surface_Go_3_1926",
         "Name":  "Microsoft Surface Go 3 Commercial Win10 19044",
         "PackageID":  "103504",
-        "FileName":  "SurfaceGo3_Win10_19044_23.093.36099.0.msi",
-        "Url":  "https://download.microsoft.com/download/e/8/2/e82f3029-e587-4c28-8ab4-ae1bf1e2c209/SurfaceGo3_Win10_19044_23.093.36099.0.msi",
+        "FileName":  "SurfaceGo3_Win10_19044_23.110.4352.0.msi",
+        "Url":  "https://download.microsoft.com/download/e/8/2/e82f3029-e587-4c28-8ab4-ae1bf1e2c209/SurfaceGo3_Win10_19044_23.110.4352.0.msi",
         "OSVersion":  "Windows 10 x64",
-        "HashMD5":  "149A5E691D96F8831C15787A7308DD15"
+        "HashMD5":  "4D11963268FC2B12BC68CC8CB70EA898"
     },
     {
         "CatalogVersion":  "23.01.08",
@@ -324,10 +324,10 @@
         "Product":  "Surface_Go_3_1926",
         "Name":  "Microsoft Surface Go 3 Commerical Win11 22000",
         "PackageID":  "103504",
-        "FileName":  "SurfaceGo3_Win11_22000_23.093.36099.0.msi",
-        "Url":  "https://download.microsoft.com/download/e/8/2/e82f3029-e587-4c28-8ab4-ae1bf1e2c209/SurfaceGo3_Win11_22000_23.093.36099.0.msi",
+        "FileName":  "SurfaceGo3_Win11_22000_23.110.4352.0.msi",
+        "Url":  "https://download.microsoft.com/download/e/8/2/e82f3029-e587-4c28-8ab4-ae1bf1e2c209/SurfaceGo3_Win11_22000_23.110.4352.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "336E1C1216584B98C5BD7F3AA5AEF29C"
+        "HashMD5":  "800509D5ECF24E4FB4FF1D116EACDEE9"
     },
     {
         "CatalogVersion":  "23.01.08",
