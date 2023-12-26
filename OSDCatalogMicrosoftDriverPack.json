@@ -744,10 +744,10 @@
         "Product":  "Surface_Laptop_5_for_Business_1979",
         "Name":  "Microsoft Surface Laptop 5 15 Commercial Win10 19044",
         "PackageID":  "104679",
-        "FileName":  "SurfaceLaptop5_Win10_19044_23.103.32933.0.msi",
-        "Url":  "https://download.microsoft.com/download/d/2/6/d26c7d69-ec2f-4dd6-95ab-7e1d2b5ee7ae/SurfaceLaptop5_Win10_19044_23.103.32933.0.msi",
+        "FileName":  "SurfaceLaptop5_Win10_19044_23.121.7309.0.msi",
+        "Url":  "https://download.microsoft.com/download/d/2/6/d26c7d69-ec2f-4dd6-95ab-7e1d2b5ee7ae/SurfaceLaptop5_Win10_19044_23.121.7309.0.msi",
         "OSVersion":  "Windows 10 x64",
-        "HashMD5":  "1E14B05FAD0E4E5E74E5EF42824FD156"
+        "HashMD5":  "E134E8D91E9061628269E2C1C3956E34"
     },
     {
         "CatalogVersion":  "23.01.08",
@@ -759,10 +759,10 @@
         "Product":  "Surface_Laptop_5_for_Business_1979",
         "Name":  "Microsoft Surface Laptop 5 15 Commercial Win11 22621",
         "PackageID":  "104679",
-        "FileName":  "SurfaceLaptop5_Win11_22621_23.103.32933.0.msi",
-        "Url":  "https://download.microsoft.com/download/d/2/6/d26c7d69-ec2f-4dd6-95ab-7e1d2b5ee7ae/SurfaceLaptop5_Win11_22621_23.103.32933.0.msi",
+        "FileName":  "SurfaceLaptop5_Win11_22621_23.121.7310.0.msi",
+        "Url":  "https://download.microsoft.com/download/d/2/6/d26c7d69-ec2f-4dd6-95ab-7e1d2b5ee7ae/SurfaceLaptop5_Win11_22621_23.121.7310.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "DCE61416FCACDBD346FEF9FF958E39B8"
+        "HashMD5":  "2E2A1D3998E26951EACCDD8E4A79E49A"
     },
     {
         "CatalogVersion":  "23.01.08",
