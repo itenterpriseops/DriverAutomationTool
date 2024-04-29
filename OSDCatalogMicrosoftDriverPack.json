@@ -258,16 +258,16 @@
         "CatalogVersion":  "23.01.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "23.12.01",
+        "ReleaseDate":  "24.04.26",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Go 2",
         "Product":  "Surface_Go_2_1926",
         "Name":  "Microsoft Surface Go 2 Commercial Win10 19044",
         "PackageID":  "101304",
-        "FileName":  "SurfaceGo2_Win10_19044_23.104.36900_0.msi",
-        "Url":  "https://download.microsoft.com/download/d/7/1/d71163b8-03a8-40c7-8a9f-fc2006c6bccb/SurfaceGo2_Win10_19044_23.104.36900_0.msi",
+        "FileName":  "SurfaceGo2_Win10_19044_24.034.25080_0.msi",
+        "Url":  "https://download.microsoft.com/download/d/7/1/d71163b8-03a8-40c7-8a9f-fc2006c6bccb/SurfaceGo2_Win10_19044_24.034.25080_0.msi",
         "OSVersion":  "Windows 10 x64",
-        "HashMD5":  "2FA588D7741B9C1BDF5B490A551902B6"
+        "HashMD5":  "9D7CB4BC6C20805ED0CA8A38A9EB4DB4"
     },
     {
         "CatalogVersion":  "23.01.08",
