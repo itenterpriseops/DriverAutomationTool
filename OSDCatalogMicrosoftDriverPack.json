@@ -1233,16 +1233,16 @@
         "CatalogVersion":  "23.01.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "24.10.22",
+        "ReleaseDate":  "24.01.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Pro 9",
         "Product":  "Surface_Pro_9_for_Business_2038",
         "Name":  "Microsoft Surface Pro 9 Commercial Win11 22621",
         "PackageID":  "104680",
-        "FileName":  "SurfacePro9_Win11_22621_24.100.4203.0.msi",
-        "Url":  "https://download.microsoft.com/download/e/9/a/e9a35d1b-7b4c-48d4-8619-5301d4c09f65/SurfacePro9_Win11_22621_24.100.4203.0.msi",
+        "FileName":  "SurfacePro9_Win11_22621_24.121.7541.0.msi",
+        "Url":  "https://download.microsoft.com/download/e/9/a/e9a35d1b-7b4c-48d4-8619-5301d4c09f65/SurfacePro9_Win11_22621_24.121.7541.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "9D7B7945EE7FB1395F25982B76DAAA86"
+        "HashMD5":  "5731F9B5EFC06D610665BAF80ECA1731"
     },
     {
         "CatalogVersion":  "23.01.08",
