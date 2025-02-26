@@ -318,16 +318,16 @@
         "CatalogVersion":  "23.01.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "24.11.14",
+        "ReleaseDate":  "25.01.29",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Go 3",
         "Product":  "Surface_Go_3_1926",
         "Name":  "Microsoft Surface Go 3 Commerical Win11 22621",
         "PackageID":  "103504",
-        "FileName":  "SurfaceGo3_Win11_22621_24.103.29945.0.msi",
-        "Url":  "https://download.microsoft.com/download/e/8/2/e82f3029-e587-4c28-8ab4-ae1bf1e2c209/SurfaceGo3_Win11_22621_24.103.29945.0.msi",
+        "FileName":  "SurfaceGo3_Win11_22621_24.113.38730.0.msi",
+        "Url":  "https://download.microsoft.com/download/e/8/2/e82f3029-e587-4c28-8ab4-ae1bf1e2c209/SurfaceGo3_Win11_22621_24.113.38730.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "2D035FA1E7F97B37A9E6FFD61A030460"
+        "HashMD5":  "850E54E0CC4734A0A0962F1732A7B59C"
     },
     {
         "CatalogVersion":  "23.01.08",
