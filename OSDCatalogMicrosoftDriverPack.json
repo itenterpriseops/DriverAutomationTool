@@ -1053,16 +1053,16 @@
         "CatalogVersion":  "23.01.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "24.01.24",
+        "ReleaseDate":  "25.04.02",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Pro 7+",
         "Product":  "Surface_Pro_7+_1960",
         "Name":  "Microsoft Surface Pro 7+ Win11 22621",
         "PackageID":  "102633",
-        "FileName":  "SurfacePro7+_Win11_22621_24.122.23285.0.msi",
-        "Url":  "https://download.microsoft.com/download/1/b/4/1b4bdd09-a704-4bf5-bed6-6693a0ac848a/SurfacePro7+_Win11_22621_24.122.23285.0.msi",
+        "FileName":  "SurfacePro7 _Win11_22621_25.031.9938.0.msi",
+        "Url":  "https://download.microsoft.com/download/0195da46-88f9-4f56-8046-babe15cafe2e/SurfacePro7 _Win11_22621_25.031.9938.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "7ABA85EF46A7D11C0E51739531F4717D"
+        "HashMD5":  "321A768C6E422B6D98313C5804551908"
     },
     {
         "CatalogVersion":  "23.01.08",
