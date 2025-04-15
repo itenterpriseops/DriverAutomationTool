@@ -325,9 +325,9 @@
         "Name":  "Microsoft Surface Go 3 Commerical Win11 22621",
         "PackageID":  "103504",
         "FileName":  "SurfaceGo3_Win11_22621_25.010.2932.0.msi",
-        "Url":  "https://download.microsoft.com/download/e/8/2/e82f3029-e587-4c28-8ab4-ae1bf1e2c209/SurfaceGo3_Win11_22621_25.010.2932.0.msi",
+        "Url":  "https://download.microsoft.com/download/100ded78-f124-4076-ab44-4be7375925fa/SurfaceGo3_Win11_22621_25.010.2932.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "850E54E0CC4734A0A0962F1732A7B59C"
+        "HashMD5":  "03D5F85FCF63071C9A0E13520A9A4844"
     },
     {
         "CatalogVersion":  "23.01.08",
