@@ -1259,6 +1259,21 @@
         "OSVersion":  "Windows 10 x64",
         "HashMD5":  "9CE1903CC01677A5DA996DAC25173352"
     },
+        {
+        "CatalogVersion":  "23.01.08",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "25.04.21",
+        "Manufacturer":  "Microsoft",
+        "Model":  "Surface Pro 11th Edition",
+        "Product":  "Surface_Pro_11th_Edition_With_Intel_For_Business_2103",
+        "Name":  "Microsoft Surface Pro 11 Intel Commercial Win11 26100",
+        "PackageID":  "104683",
+        "FileName":  "SurfaceProforBusiness11thEditionwithIntel_Win11_26100_25.032.26502.0.msi",
+        "Url":  "https://download.microsoft.com/download/c26c62fe-da4b-41d1-b276-c855751c247c/SurfaceProforBusiness11thEditionwithIntel_Win11_26100_25.032.26502.0.msi",
+        "OSVersion":  "Windows 11 x64",
+        "HashMD5":  "64081254E47069D9B51FFD0343056CDF"
+    },
     {
         "CatalogVersion":  "23.01.08",
         "Status":  null,
