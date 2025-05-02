@@ -44,4 +44,5 @@
 	<Model SystemSKU="Surface_Studio_2_1707_Commercial" ProductName="Surface Studio 2" DisplayName="Surface Studio 2" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Pro_9_for_Business_2038" ProductName="Surface Pro 9" DisplayName="Surface Pro 9 Commercial" SupportedBuilds="1809,1903,1909,2004,2009,21H2,22H2"></Model>
 	<Model SystemSKU="Surface_Laptop_6_for_Business_2033" ProductName="Surface Laptop 6" DisplayName="Surface Laptop 6 for Business 13.5" SupportedBuilds="21H2,22H2,23H2"></Model>
+	<Model SystemSKU="Surface_Pro_11th_Edition_With_Intel_For_Business_2103" ProductName="Surface Pro 11th Edition/Intel" DisplayName="Surface Pro 11th Edition Intel" SupportedBuilds="23H2,24H2"></Model>
 </Drivers>
