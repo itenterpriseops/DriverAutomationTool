@@ -1267,12 +1267,12 @@
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Pro 11th Edition",
         "Product":  "Surface_Pro_11th_Edition_With_Intel_For_Business_2103",
-        "Name":  "Microsoft Surface Pro 11 Intel Commercial Win11 26100",
+        "Name":  "Microsoft Surface Pro 11 Intel Win11 22631",
         "PackageID":  "104683",
-        "FileName":  "SurfaceProforBusiness11thEditionwithIntel_Win11_26100_25.032.26502.0.msi",
-        "Url":  "https://download.microsoft.com/download/c26c62fe-da4b-41d1-b276-c855751c247c/SurfaceProforBusiness11thEditionwithIntel_Win11_26100_25.032.26502.0.msi",
+        "FileName":  "SurfacePro11_Intel_Win11_22631_25.041.15761.0.msi",
+        "Url":  "https://download.microsoft.com/download/c26c62fe-da4b-41d1-b276-c855751c247c/SurfacePro11_Intel_Win11_22631_25.041.15761.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "64081254E47069D9B51FFD0343056CDF"
+        "HashMD5":  "CE77A76B0677B45C9CABD55C108B0A4A"
     },
     {
         "CatalogVersion":  "23.01.08",
