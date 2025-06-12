@@ -1113,16 +1113,16 @@
         "CatalogVersion":  "23.01.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "25.03.22",
+        "ReleaseDate":  "25.06.05",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Pro 8",
         "Product":  "Surface_Pro_8_for_Business_1983",
         "Name":  "Microsoft Surface Pro 8 Win11 22621",
         "PackageID":  "103503",
-        "FileName":  "SurfacePro8_Win11_22621_25.020.4491.0.msi",
-        "Url":  "https://download.microsoft.com/download/6a5b8acd-9bb2-4813-8cdd-09f603f91ee5/SurfacePro8_Win11_22621_25.020.4491.0.msi",
+        "FileName":  "SurfacePro8_Win11_22621_25.042.23018.0.msi",
+        "Url":  "https://download.microsoft.com/download/6a5b8acd-9bb2-4813-8cdd-09f603f91ee5/SurfacePro8_Win11_22621_25.042.23018.0.msi",
         "OSVersion":  "Windows 11 x64",
-        "HashMD5":  "DC6DE295937DDB9E3049ABD952BB1F66"
+        "HashMD5":  "9BAB5104770853A30E53077CD6848E44"
     },
     {
         "CatalogVersion":  "23.01.08",
