@@ -794,6 +794,21 @@
         "OSVersion":  "Windows 11 x64",
         "HashMD5":  "631AC7F53F2CA47DB0110BD909D0A87B"
     },
+        {
+        "CatalogVersion":  "23.01.08",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "25.04.21",
+        "Manufacturer":  "Microsoft",
+        "Model":  "Surface Laptop for Business 7th Edition with Intel",
+        "Product":  "Surface_Laptop_7th_Edition_With_Intel_For_Business_2108",
+        "Name":  "Microsoft Surface Laptop 7th Edition 15 Intel Win11 22631",
+        "PackageID":  "104684",
+        "FileName":  "SurfaceLaptop7_Intel_Win11_22631_25.041.14276.0.msi",
+        "Url":  "https://download.microsoft.com/download/1543bd80-9cae-498d-8b0f-9841e4d7b2a8/SurfaceLaptop7_Intel_Win11_22631_25.041.14276.0.msi",
+        "OSVersion":  "Windows 11 x64",
+        "HashMD5":  "5588B4A390C49578DB3EBBA26E024BEF"
+    },
     {
         "CatalogVersion":  "23.01.08",
         "Status":  null,
